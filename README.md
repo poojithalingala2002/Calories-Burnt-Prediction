@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-<h1>🔥 Calories Burnt Prediction – Machine Learning Project</h1>
+<h1> Calories Burnt Prediction – Machine Learning Project</h1>
 
 <hr>
 
@@ -21,7 +21,7 @@ The model predicts calories burnt based on user and exercise parameters such as
 
 <hr>
 
-<h2>🚀 Key Features</h2>
+<h2> Key Features</h2>
 <ul>
     <li>End-to-end Machine Learning pipeline</li>
     <li>Robust data preprocessing and feature engineering</li>
@@ -250,7 +250,7 @@ http://127.0.0.1:5000/
 
 <h2>👤 Author</h2>
 <p>
-<b>Bala Venu Balineni</b><br>
+<b>Poojitha Lingala</b><br>
 Machine Learning & Data Science Enthusiast
 </p>
 
